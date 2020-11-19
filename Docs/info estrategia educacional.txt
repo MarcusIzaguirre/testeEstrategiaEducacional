@@ -1,0 +1,21 @@
+DESAFIO ESTRATEGIA EDUCACIONAL
+QA ENGINEER
+
+https://github.com/estrategiahq/desafio-qa-engineer
+
+Endereço da Home: https://www.estrategiaconcursos.com.br/
+
+Agora você deve automatizar pelo menos três cenários de teste sobre a feature de busca e visualização. O primeiro vamos pedir que faça o seguinte cenário:
+
+1. Acessar a home da estratégia: https://www.estrategiaconcursos.com.br/.
+2. Utilizar a busca "Por Professor"
+3. Acessar os cursos da professora "Ena Loiola"
+4. Escolha um dos cursos que estarão disponíveis para verificar se o valor do curso 
+na listagem de cursos da professora bate com o valor da página de detalhes do curso.
+5. Verifique também se o valor parcelado do curso bate com o valor total do curso.
+6. Faça outras asserções que achar necessárias Busca 
+E
+
+
+COMANDOS GIT:
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
